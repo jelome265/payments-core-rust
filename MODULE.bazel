@@ -1,0 +1,3 @@
+module(name = "payments_core_rust", version = "1.0.0")
+
+bazel_dep(name = "rules_shell", version = "0.1.0")
